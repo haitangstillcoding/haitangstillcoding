@@ -1,10 +1,15 @@
-### Hi there 👋
+##  🤯关于我的GitHub!
 
-<!--
-**haitangstillcoding/haitangstillcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="" height="126px" src="https://github-readme-stats.vercel.app/api?username=haitangstillcoding&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,D36A53,834E86&text_color=FFFFFF&icon_color=FFFFFF&locale=cn" /><img align="" height="126px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitangstillcoding&hide_title=true&hide_border=true&layout=compact&bg_color=0,834E86,1E90FF&icon_color=FFFFFF&text_color=FFFFFF&locale=cn" />
 
-Here are some ideas to get you started:
+##  👽自我介绍
 
+- 👋 你好！我是海棠还在写代码，欢迎来到我的GitHub主页！
+- 😄 是我：<a href="https://docs.qq.com/doc/DRnlJQ3hOZmttYkJk" target="_blank">了解这个喜欢睡觉的后端开发</a>
+- 🔗 外链：<a href="">Bilibili干杯!🍻【汤姆还在写代码】</a>
+- 👀 最近：最近正在疯狂学习、做视频、开直播中，读一读分布式系统设计的一些大部头～🧐
+- 🥳 梦想：我想做十年视频，做十年直播，坚持十年，会发生什么呢？会拿到10万关注的小银牌吗？🤩
+- 📫 联系：微信公众号【汤姆还在写代码】，直接私信留言，或者在B站上私信，都可以，一定会处理的～
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
